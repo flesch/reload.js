@@ -1,0 +1,20 @@
+{
+  "name": "reload.js",
+  "homepage": "http://github.com/johnflesch/reload.js",
+  "description": "Automatically reload node during development when changes are made.",
+  "keywords": ["reload", "restart", "development"],  
+  "version": "0.0.3",
+  "author": {
+    "name": "John Flesch",
+    "url": "http://github.com/johnflesch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnflesch/reload.js.git"
+  },
+  "main": "./reload.js",
+  "preferGlobal" : "true",
+  "engines": {
+    "node": ">=0.4.7"
+  }
+}
