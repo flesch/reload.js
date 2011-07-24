@@ -6,8 +6,8 @@
 
 If you use it or have suggestions, let me know!
 
-  - Twitter: [`@johnflesch`](http://twitter.com/#!johnflesch)
-  - Email: `john (at) fles.ch`
+  - Twitter: [@johnflesch](http://twitter.com/#!/johnflesch)
+  - Email: john (at) fles.ch
 
 ## Installing
 
