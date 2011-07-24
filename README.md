@@ -49,3 +49,9 @@ Admittedly, this isn't very robust. But I don't need it to be.
   - You can't ignore files. `find . | grep .js$` will be greedy and grab *all* `*.js` files in your application.
   - `fs.watchFile` is configured to check for updates every 1s. That's probably too much (unless you type fast).
   - I have no idea if this will work on Windows.
+
+## Todo
+
+  - Add [CoffeeScript](http://jashkenas.github.com/coffee-script/) support.
+  - Add the ability to ignore files.
+  - Add it to `bin`.
