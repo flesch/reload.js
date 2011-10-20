@@ -55,3 +55,7 @@ Admittedly, this isn't very robust. But I don't need it to be.
   - Add [CoffeeScript](http://jashkenas.github.com/coffee-script/) support.
   - Add the ability to ignore files.
   - Add it to `bin`.
+
+## License
+
+Released under the MIT License: [http://flesch.mit-license.org](http://flesch.mit-license.org)
